@@ -24,6 +24,7 @@ export default function Home() {
               href="https://github.com/diegojgz"
               target="_blank"
               rel="noopener noreferrer"
+              id='myNickName'
             >
               diegojgz
             </a>
